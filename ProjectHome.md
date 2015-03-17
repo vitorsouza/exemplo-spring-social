@@ -1,0 +1,1 @@
+Exemplo de Spring Social para artigo da Java Magazine 98
